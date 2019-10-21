@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</pattern>
+   <template>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</template>
+</category>
+
+<category>
+   <pattern>DOT DEM GIAO THUA PHAO BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT DEM GIAO THUA PHAO BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT DEM GIAO THUA PHAO BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT DEM GIAO THUA PHAO BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT * DEM GIAO THUA * PHAO * BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT * DEM GIAO THUA * PHAO * BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT * DEM GIAO THUA * PHAO * BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT * DEM GIAO THUA * PHAO * BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT PHAO BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT PHAO BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT PHAO BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT PHAO BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT * PHAO * BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT * PHAO * BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT * PHAO * BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT * PHAO * BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DEM GIAO THUA PHAO BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DEM GIAO THUA PHAO BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DEM GIAO THUA PHAO BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DEM GIAO THUA PHAO BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DEM GIAO THUA * PHAO * BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DEM GIAO THUA * PHAO * BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DEM GIAO THUA * PHAO * BI XU LY HINH SU</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DEM GIAO THUA * PHAO * BI XU LY HINH SU *</pattern>
+   <template>
+      <srai>DOT PHAO DEM GIAO THU CO BI XU LY HINH SU</srai>
+   </template>
+</category>
+
+</aiml>

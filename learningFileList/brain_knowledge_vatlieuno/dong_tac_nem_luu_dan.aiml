@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>DONG TAC NEM LUU DAN</pattern>
+   <template>DONG TAC NEM LUU DAN</template>
+</category>
+
+<category>
+   <pattern>DONG TAC NEM LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC NEM LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC NEM LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC NEM LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC * NEM * LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC * NEM * LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC * NEM * LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC * NEM * LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC * NEM LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC * NEM LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC * NEM LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC * NEM LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC NEM * LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC NEM * LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC NEM * LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC NEM * LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC * LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC * LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DONG TAC * LUU DAN</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DONG TAC * LUU DAN *</pattern>
+   <template>
+      <srai>DONG TAC NEM LUU DAN</srai>
+   </template>
+</category>
+
+</aiml>

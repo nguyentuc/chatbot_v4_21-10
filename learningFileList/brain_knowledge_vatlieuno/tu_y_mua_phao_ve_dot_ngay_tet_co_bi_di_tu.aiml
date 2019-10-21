@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</pattern>
+   <template>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</template>
+</category>
+
+<category>
+   <pattern>TU Y MUA DOT NGAY TET PHAO BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TU Y MUA DOT NGAY TET PHAO BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TU Y MUA DOT NGAY TET PHAO BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TU Y MUA DOT NGAY TET PHAO BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TU Y MUA * DOT NGAY TET * PHAO * BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TU Y MUA * DOT NGAY TET * PHAO * BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TU Y MUA * DOT NGAY TET * PHAO * BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TU Y MUA * DOT NGAY TET * PHAO * BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TU Y MUA PHAO BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TU Y MUA PHAO BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TU Y MUA PHAO BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TU Y MUA PHAO BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TU Y MUA * PHAO * BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TU Y MUA * PHAO * BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TU Y MUA * PHAO * BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TU Y MUA * PHAO * BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT NGAY TET PHAO BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT NGAY TET PHAO BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT NGAY TET PHAO BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT NGAY TET PHAO BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT NGAY TET * PHAO * BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT NGAY TET * PHAO * BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT NGAY TET * PHAO * BI DI TU</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT NGAY TET * PHAO * BI DI TU *</pattern>
+   <template>
+      <srai>TU Y MUA PHAO VE DOT NGAY TET CO BI DI TU</srai>
+   </template>
+</category>
+
+</aiml>

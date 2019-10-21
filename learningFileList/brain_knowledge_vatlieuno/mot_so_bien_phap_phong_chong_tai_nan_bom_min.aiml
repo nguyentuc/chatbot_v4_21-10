@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</pattern>
+   <template>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP PHONG CHONG TAI NAN BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP PHONG CHONG TAI NAN BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP PHONG CHONG TAI NAN BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP PHONG CHONG TAI NAN BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP * PHONG CHONG * TAI NAN * BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP * PHONG CHONG * TAI NAN * BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP * PHONG CHONG * TAI NAN * BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP * PHONG CHONG * TAI NAN * BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP * PHONG CHONG TAI NAN BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP * PHONG CHONG TAI NAN BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP * PHONG CHONG TAI NAN * BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP * PHONG CHONG TAI NAN * BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP PHONG CHONG BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP PHONG CHONG BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP PHONG CHONG BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP PHONG CHONG BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP * PHONG CHONG * BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP * PHONG CHONG * BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP * PHONG CHONG * BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP * PHONG CHONG * BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP TAI NAN BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP TAI NAN BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP TAI NAN BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP TAI NAN BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP * TAI NAN * BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP * TAI NAN * BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BIEN PHAP * TAI NAN * BOM</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BIEN PHAP * TAI NAN * BOM *</pattern>
+   <template>
+      <srai>MOT SO BIEN PHAP PHONG CHONG TAI NAN BOM MIN</srai>
+   </template>
+</category>
+
+</aiml>

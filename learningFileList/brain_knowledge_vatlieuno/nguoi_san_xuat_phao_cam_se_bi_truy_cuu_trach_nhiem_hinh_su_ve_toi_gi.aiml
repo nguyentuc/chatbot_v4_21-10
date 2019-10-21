@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</pattern>
+   <template>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO * BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO * BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO * BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO * BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO * BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO * BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO * BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO * BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO * BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO * BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO * BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO * BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO * BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO * BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO * BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO * BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT * PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT * PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI SAN XUAT PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI SAN XUAT PHAO * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * BI TRUY CUU TRACH NHIEM TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * BI TRUY CUU TRACH NHIEM TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO BI TRUY CUU TRACH NHIEM * TOI GI</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO BI TRUY CUU TRACH NHIEM * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI SAN XUAT PHAO CAM SE BI TRUY CUU TRACH NHIEM HINH SU VE TOI GI</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</pattern>
+   <template>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</template>
+</category>
+
+<category>
+   <pattern>PHAO DUOC PHEP SU DUNG</pattern>
+   <template>
+      <srai>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO DUOC PHEP SU DUNG *</pattern>
+   <template>
+      <srai>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO DUOC PHEP SU DUNG</pattern>
+   <template>
+      <srai>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO DUOC PHEP SU DUNG *</pattern>
+   <template>
+      <srai>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * DUOC PHEP SU DUNG</pattern>
+   <template>
+      <srai>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * DUOC PHEP SU DUNG *</pattern>
+   <template>
+      <srai>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * DUOC PHEP SU DUNG</pattern>
+   <template>
+      <srai>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * DUOC PHEP SU DUNG *</pattern>
+   <template>
+      <srai>CAC LOAI PHAO SAN PHAM NAO DUOC PHEP SU DUNG</srai>
+   </template>
+</category>
+
+</aiml>

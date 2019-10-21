@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</pattern>
+   <template>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</template>
+</category>
+
+<category>
+   <pattern>TANG TRU VAT LIEU NO BI PHAT TOI 5 NAM TU</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VAT LIEU NO BI PHAT TOI 5 NAM TU *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VAT LIEU NO BI PHAT TOI 5 NAM TU</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VAT LIEU NO BI PHAT TOI 5 NAM TU *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VAT LIEU NO * BI PHAT TOI 5 NAM TU</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VAT LIEU NO * BI PHAT TOI 5 NAM TU *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VAT LIEU NO * BI PHAT TOI 5 NAM TU</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VAT LIEU NO * BI PHAT TOI 5 NAM TU *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VAT LIEU NO BI PHAT TOI 5 NAM TU</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VAT LIEU NO BI PHAT TOI 5 NAM TU *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VAT LIEU NO BI PHAT TOI 5 NAM TU</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VAT LIEU NO BI PHAT TOI 5 NAM TU *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VAT LIEU NO * BI PHAT TOI 5 NAM TU</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VAT LIEU NO * BI PHAT TOI 5 NAM TU *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VAT LIEU NO * BI PHAT TOI 5 NAM TU</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VAT LIEU NO * BI PHAT TOI 5 NAM TU *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VAT LIEU NO</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VAT LIEU NO</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TANG TRU VU KHI VAT LIEU NO CO THE BI PHAT TOI 5 NAM TU</srai>
+   </template>
+</category>
+
+</aiml>

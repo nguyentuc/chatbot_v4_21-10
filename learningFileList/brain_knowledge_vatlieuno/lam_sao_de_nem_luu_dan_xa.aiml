@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>LAM SAO DE NEM LUU DAN XA</pattern>
+   <template>LAM SAO DE NEM LUU DAN XA</template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM * LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM * LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM * LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM * LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM * LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM * LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM * LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM * LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM * LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM * LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM * LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM * LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM * LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM * LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM * LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM * LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * LUU DAN XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * LUU DAN XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO LUU DAN * XA</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO LUU DAN * XA *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM LUU DAN</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM LUU DAN *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM LUU DAN</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM LUU DAN *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM * LUU DAN</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM * LUU DAN *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM * LUU DAN</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM * LUU DAN *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM LUU DAN</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM LUU DAN *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO * NEM LUU DAN</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO * NEM LUU DAN *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM * LUU DAN</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM * LUU DAN *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM SAO NEM * LUU DAN</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM SAO NEM * LUU DAN *</pattern>
+   <template>
+      <srai>LAM SAO DE NEM LUU DAN XA</srai>
+   </template>
+</category>
+
+</aiml>

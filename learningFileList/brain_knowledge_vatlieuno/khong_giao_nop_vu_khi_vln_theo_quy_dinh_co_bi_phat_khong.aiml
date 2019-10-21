@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</pattern>
+   <template>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP THEO QUY DINH VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP THEO QUY DINH VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP THEO QUY DINH VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP THEO QUY DINH VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP * THEO QUY DINH * VAT LIEU NO * CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP * THEO QUY DINH * VAT LIEU NO * CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP * THEO QUY DINH * VAT LIEU NO * CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP * THEO QUY DINH * VAT LIEU NO * CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP * VAT LIEU NO * CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP * VAT LIEU NO * CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP * VAT LIEU NO * CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP * VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP * VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP * VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG GIAO NOP * VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG GIAO NOP * VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THEO QUY DINH VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THEO QUY DINH VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THEO QUY DINH VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THEO QUY DINH VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THEO QUY DINH * VAT LIEU NO * CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THEO QUY DINH * VAT LIEU NO * CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THEO QUY DINH * VAT LIEU NO * CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THEO QUY DINH * VAT LIEU NO * CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THEO QUY DINH * VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THEO QUY DINH * VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THEO QUY DINH * VAT LIEU NO CO BI PHAT KHONG</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THEO QUY DINH * VAT LIEU NO CO BI PHAT KHONG *</pattern>
+   <template>
+      <srai>KHONG GIAO NOP VU KHI VAT LIEU NO THEO QUY DINH CO BI PHAT KHONG</srai>
+   </template>
+</category>
+
+</aiml>

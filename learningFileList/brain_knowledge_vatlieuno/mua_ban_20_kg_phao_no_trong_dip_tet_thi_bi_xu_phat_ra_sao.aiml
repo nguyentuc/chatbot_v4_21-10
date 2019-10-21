@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</pattern>
+   <template>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</template>
+</category>
+
+<category>
+   <pattern>MUA BAN 20 KG PHAO TRONG DIP TET XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 20 KG PHAO TRONG DIP TET XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 20 KG PHAO TRONG DIP TET XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 20 KG PHAO TRONG DIP TET XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 20 KG * PHAO * TRONG DIP TET * XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 20 KG * PHAO * TRONG DIP TET * XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 20 KG * PHAO * TRONG DIP TET * XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 20 KG * PHAO * TRONG DIP TET * XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 20 KG TRONG DIP TET XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 20 KG TRONG DIP TET XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 20 KG TRONG DIP TET XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 20 KG TRONG DIP TET XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 20 KG * TRONG DIP TET * XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 20 KG * TRONG DIP TET * XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 20 KG * TRONG DIP TET * XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 20 KG * TRONG DIP TET * XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO TRONG DIP TET XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO TRONG DIP TET XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO TRONG DIP TET XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO TRONG DIP TET XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * TRONG DIP TET * XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * TRONG DIP TET * XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * TRONG DIP TET * XU PHAT</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * TRONG DIP TET * XU PHAT *</pattern>
+   <template>
+      <srai>MUA BAN 20KG PHAO NO TRONG DIP TET THI BI XU PHAT RA SAO</srai>
+   </template>
+</category>
+
+</aiml>

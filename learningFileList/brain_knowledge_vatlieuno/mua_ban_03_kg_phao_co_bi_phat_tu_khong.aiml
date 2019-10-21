@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</pattern>
+   <template>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</template>
+</category>
+
+<category>
+   <pattern>MUA BAN 03 KG PHAO PHAT TU</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 03 KG PHAO PHAT TU *</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 03 KG PHAO PHAT TU</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 03 KG PHAO PHAT TU *</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 03 KG * PHAO * PHAT TU</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 03 KG * PHAO * PHAT TU *</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 03 KG * PHAO * PHAT TU</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 03 KG * PHAO * PHAT TU *</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 03 KG * PHAO PHAT TU</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 03 KG * PHAO PHAT TU *</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 03 KG * PHAO PHAT TU</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 03 KG * PHAO PHAT TU *</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 03 KG PHAO * PHAT TU</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 03 KG PHAO * PHAT TU *</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN 03 KG PHAO * PHAT TU</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN 03 KG PHAO * PHAT TU *</pattern>
+   <template>
+      <srai>MUA BAN 03 KG PHAO CO BI PHAT TU KHONG</srai>
+   </template>
+</category>
+
+</aiml>

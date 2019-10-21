@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</pattern>
+   <template>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</template>
+</category>
+
+<category>
+   <pattern>CAN TRO HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * HANH HUNG * NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * HANH HUNG * NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * HANH HUNG * NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAN TRO THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAN TRO THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG NGUOI CAN NGAN * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * THI HANH CONG VU PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG * THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG THI HANH CONG VU PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG THI HANH CONG VU * PHAO * CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH HUNG THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH HUNG THI HANH CONG VU * PHAO CO VI PHAM PHAP LUAT KHONG *</pattern>
+   <template>
+      <srai>CAN TRO HANH HUNG NGUOI CAN NGAN CO VI PHAM LUAT KHONG</srai>
+   </template>
+</category>
+
+</aiml>

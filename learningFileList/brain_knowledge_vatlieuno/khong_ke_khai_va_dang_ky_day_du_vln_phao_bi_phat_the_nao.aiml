@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</pattern>
+   <template>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI VAT LIEU NO PHAO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI VAT LIEU NO PHAO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI VAT LIEU NO PHAO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI VAT LIEU NO PHAO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI * VAT LIEU NO * PHAO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI * VAT LIEU NO * PHAO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI * VAT LIEU NO * PHAO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI * VAT LIEU NO * PHAO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI * VAT LIEU NO PHAO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI * VAT LIEU NO PHAO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI * VAT LIEU NO PHAO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI * VAT LIEU NO PHAO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI PHAO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI PHAO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI PHAO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI PHAO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI * PHAO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI * PHAO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG KE KHAI VA DANG KI * PHAO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG KE KHAI VA DANG KI * PHAO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>KHONG KE KHAI VA DANG KY DAY DAY DU VAT LIEU NO HOAC PHAO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

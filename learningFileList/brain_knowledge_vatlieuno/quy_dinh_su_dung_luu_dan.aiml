@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>QUY DINH SU DUNG LUU DAN</pattern>
+   <template>QUY DINH SU DUNG LUU DAN</template>
+</category>
+
+<category>
+   <pattern>QUY DINH SU DUNG LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH SU DUNG LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH SU DUNG LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH SU DUNG LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * SU DUNG * LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * SU DUNG * LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * SU DUNG * LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * SU DUNG * LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * SU DUNG LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * SU DUNG LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * SU DUNG LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * SU DUNG LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH SU DUNG * LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH SU DUNG * LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH SU DUNG * LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH SU DUNG * LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH SU DUNG</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH SU DUNG *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH SU DUNG</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH SU DUNG *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * SU DUNG</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * SU DUNG *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * SU DUNG</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * SU DUNG *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * LUU DAN</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * LUU DAN *</pattern>
+   <template>
+      <srai>QUY DINH SU DUNG LUU DAN</srai>
+   </template>
+</category>
+
+</aiml>

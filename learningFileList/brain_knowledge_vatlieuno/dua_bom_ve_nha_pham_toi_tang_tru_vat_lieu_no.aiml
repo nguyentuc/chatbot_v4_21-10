@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>DUA BOM VE NHA TANG TRU VAT LIEU NO</pattern>
+   <template>DUA BOM VE NHA TANG TRU VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>DUA BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA * BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA * BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA * BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA * BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA * BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA * BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA * BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA * BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BOM VE NHA PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BOM VE NHA * PHAM TOI TANG TRU VAT LIEU NO *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA BOM VE NHA</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA BOM VE NHA *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA BOM VE NHA</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA BOM VE NHA *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA * BOM VE NHA</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA * BOM VE NHA *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUA * BOM VE NHA</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUA * BOM VE NHA *</pattern>
+   <template>
+      <srai>DUA BOM VE NHA TANG TRU VAT LIEU NO</srai>
+   </template>
+</category>
+
+</aiml>

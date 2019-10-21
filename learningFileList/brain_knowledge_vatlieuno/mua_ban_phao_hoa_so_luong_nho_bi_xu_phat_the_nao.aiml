@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</pattern>
+   <template>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</template>
+</category>
+
+<category>
+   <pattern>MUA BAN SO LUONG NHO PHAO XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN SO LUONG NHO PHAO XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN SO LUONG NHO PHAO XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN SO LUONG NHO PHAO XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * SO LUONG NHO * PHAO * XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * SO LUONG NHO * PHAO * XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * SO LUONG NHO * PHAO * XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * SO LUONG NHO * PHAO * XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SO LUONG NHO PHAO XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SO LUONG NHO PHAO XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SO LUONG NHO PHAO XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SO LUONG NHO PHAO XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SO LUONG NHO * PHAO * XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SO LUONG NHO * PHAO * XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SO LUONG NHO * PHAO * XU PHAT THE NAO</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SO LUONG NHO * PHAO * XU PHAT THE NAO *</pattern>
+   <template>
+      <srai>MUA BAN PHAO HOA SO LUONG NHO BI XU PHAT THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

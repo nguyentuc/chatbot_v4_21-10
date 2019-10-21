@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</pattern>
+   <template>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</template>
+</category>
+
+<category>
+   <pattern>CUA THAO LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * THAO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * THAO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA THAO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA THAO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY THUOC NO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY THUOC NO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * TRAI PHEP BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * TRAI PHEP BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO * TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO * TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO TRAI PHEP * BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO TRAI PHEP * BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO TRAI PHEP BOM * BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO TRAI PHEP BOM * BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAO TRAI PHEP * BOM BI PHAT</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAO TRAI PHEP * BOM BI PHAT *</pattern>
+   <template>
+      <srai>CUA HOAC THAO BOM MIN DAN LUU DAN THUY LOI DE LAY THUOC NO TRAI PHEP BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

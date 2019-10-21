@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</pattern>
+   <template>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM VA CHAM MANH LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM VA CHAM MANH LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM VA CHAM MANH LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM VA CHAM MANH LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM * VA CHAM MANH * LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM * VA CHAM MANH * LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM * VA CHAM MANH * LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM * VA CHAM MANH * LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM * VA CHAM MANH LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM * VA CHAM MANH LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM * VA CHAM MANH LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM * VA CHAM MANH LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM * LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM * LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO DUOC LAM * LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO DUOC LAM * LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VA CHAM MANH LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VA CHAM MANH LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VA CHAM MANH LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VA CHAM MANH LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VA CHAM MANH * LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VA CHAM MANH * LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VA CHAM MANH * LUU DAN</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VA CHAM MANH * LUU DAN *</pattern>
+   <template>
+      <srai>CO DUOC LAM VA CHAM MANH LUU DAN KHONG</srai>
+   </template>
+</category>
+
+</aiml>

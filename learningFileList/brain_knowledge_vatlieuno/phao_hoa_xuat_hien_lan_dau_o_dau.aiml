@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>PHAO HOA XUAT HIEN LAN DAU O DAU</pattern>
+   <template>PHAO HOA XUAT HIEN LAN DAU O dAU</template>
+</category>
+
+<category>
+   <pattern>PHAO HOA XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA * XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA * XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA * XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA * XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA * XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA * XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA * XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA * XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA * XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA * XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA * XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA * XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA * XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA * XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA * XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA * XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * XUAT HIEN LAN DAU O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * XUAT HIEN LAN DAU O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO XUAT HIEN LAN DAU * O DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO XUAT HIEN LAN DAU * O DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA XUAT HIEN LAN DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA XUAT HIEN LAN DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA XUAT HIEN LAN DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA XUAT HIEN LAN DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA * XUAT HIEN LAN DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA * XUAT HIEN LAN DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA * XUAT HIEN LAN DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA * XUAT HIEN LAN DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA XUAT HIEN LAN DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA XUAT HIEN LAN DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA XUAT HIEN LAN DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA XUAT HIEN LAN DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA * XUAT HIEN LAN DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA * XUAT HIEN LAN DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA * XUAT HIEN LAN DAU</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA * XUAT HIEN LAN DAU *</pattern>
+   <template>
+      <srai>PHAO HOA XUAT HIEN LAN DAU O dAU</srai>
+   </template>
+</category>
+
+</aiml>

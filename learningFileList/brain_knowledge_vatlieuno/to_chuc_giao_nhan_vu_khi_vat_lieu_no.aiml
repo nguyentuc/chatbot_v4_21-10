@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</pattern>
+   <template>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</template>
+</category>
+
+<category>
+   <pattern>TO CHUC GIAO NHAN VAT LIEU NO</pattern>
+   <template>
+      <srai>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC GIAO NHAN VAT LIEU NO *</pattern>
+   <template>
+      <srai>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC GIAO NHAN VAT LIEU NO</pattern>
+   <template>
+      <srai>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC GIAO NHAN VAT LIEU NO *</pattern>
+   <template>
+      <srai>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC GIAO NHAN * VAT LIEU NO</pattern>
+   <template>
+      <srai>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC GIAO NHAN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC GIAO NHAN * VAT LIEU NO</pattern>
+   <template>
+      <srai>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC GIAO NHAN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TO CHUC GIAO NHAN VU KHI VAT LIEU NO CONG CU HO TRO</srai>
+   </template>
+</category>
+
+</aiml>

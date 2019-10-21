@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>MUA BAN PHAO DIP TET CO PHAM TOI</pattern>
+   <template>MUA BAN PHAO DIP TET CO PHAM TOI</template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * BAN * PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * BAN * PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * BAN * PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * BAN * PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * BAN * PHAO * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * BAN * PHAO * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * BAN * PHAO * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * BAN * PHAO * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * BAN * PHAO PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * BAN * PHAO PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * BAN * PHAO PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * BAN * PHAO PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * BAN PHAO * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * BAN PHAO * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * BAN PHAO * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * BAN PHAO * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA PHAO DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA PHAO DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA PHAO DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA PHAO DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * PHAO * DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * PHAO * DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * PHAO * DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * PHAO * DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * PHAO DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * PHAO DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA * PHAO DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA * PHAO DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA PHAO * DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA PHAO * DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA PHAO * DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA PHAO * DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN PHAO DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN PHAO DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN PHAO DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN PHAO DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN * PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN * PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN * PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN * PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN * PHAO * DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN * PHAO * DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN * PHAO * DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN * PHAO * DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN * PHAO DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN * PHAO DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN * PHAO DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN * PHAO DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN PHAO * DIP TET * PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN PHAO * DIP TET * PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN PHAO * DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN PHAO * DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN PHAO * DIP TET PHAM TOI</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN PHAO * DIP TET PHAM TOI *</pattern>
+   <template>
+      <srai>MUA BAN PHAO DIP TET CO PHAM TOI</srai>
+   </template>
+</category>
+
+</aiml>

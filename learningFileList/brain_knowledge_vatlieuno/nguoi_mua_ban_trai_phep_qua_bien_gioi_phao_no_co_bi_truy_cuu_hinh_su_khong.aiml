@@ -1,0 +1,2445 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>NGUOI</pattern>
+   <template>NGUOI</template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP QUA BIEN GIOI BI TRUY CUU HINH SU * 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP QUA BIEN GIOI * BI TRUY CUU HINH SU 20
+ *</pattern>
+   <template>
+      <srai>NGUOI</srai>
+   </template>
+</category>
+
+</aiml>

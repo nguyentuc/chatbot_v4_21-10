@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</pattern>
+   <template>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>HOAT DONG DAO BOI TIM KIEM VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG DAO BOI TIM KIEM VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG DAO BOI TIM KIEM VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG DAO BOI TIM KIEM VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG * DAO BOI * TIM KIEM * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG * DAO BOI * TIM KIEM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG * DAO BOI * TIM KIEM * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG * DAO BOI * TIM KIEM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG DAO BOI VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG DAO BOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG DAO BOI VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG DAO BOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG * DAO BOI * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG * DAO BOI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG * DAO BOI * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG * DAO BOI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAO BOI TIM KIEM VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAO BOI TIM KIEM VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAO BOI TIM KIEM VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAO BOI TIM KIEM VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAO BOI * TIM KIEM * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAO BOI * TIM KIEM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAO BOI * TIM KIEM * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAO BOI * TIM KIEM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG TIM KIEM VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG TIM KIEM VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG TIM KIEM VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG TIM KIEM VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG * TIM KIEM * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG * TIM KIEM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOAT DONG * TIM KIEM * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOAT DONG * TIM KIEM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAO BOI VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAO BOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAO BOI VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAO BOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAO BOI * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAO BOI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAO BOI * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAO BOI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIM KIEM VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIM KIEM VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIM KIEM VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIM KIEM VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIM KIEM * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIM KIEM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIM KIEM * VAT LIEU NO</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIM KIEM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HOAT DONG DAO BOI TIM KIEM VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+</aiml>

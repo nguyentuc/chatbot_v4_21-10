@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+<category>
+   <pattern>HO SO CAP LAI VAT LIEU NO</pattern>
+   <template>HO SO CAP LAI VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>* CAP LAI VAT LIEU NO</pattern>
+   <template>
+      <srai>HO SO CAP LAI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAP LAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>HO SO CAP LAI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAP LAI VAT LIEU NO</pattern>
+   <template>
+      <srai>HO SO CAP LAI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAP LAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HO SO CAP LAI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAP LAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>HO SO CAP LAI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO CAP LAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>HO SO CAP LAI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO CAP LAI VAT LIEU NO</pattern>
+   <template>
+      <srai>HO SO CAP LAI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO * CAP LAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>HO SO CAP LAI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC THU HOI VAT LIEU NO</pattern>
+   <template>THU TUC THU HOI VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>* THU TUC THU HOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC THU HOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC THU HOI VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * THU HOI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC * THU HOI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * THU HOI * VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUONG HOP THU HOI VAT LIEU NO</pattern>
+   <template>TRUONG HOP THU HOI VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>* TRUONG HOP THU HOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUONG HOP * THU HOI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUONG HOP THU HOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUONG HOP THU HOI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU HOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU HOI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU HOI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU HOI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU HOI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP THU HOI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KINH DOANH VAT LIEU NO</pattern>
+   <template>KINH DOANH VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>* KINH DOANH VAT LIEU NO *</pattern>
+   <template>
+      <srai>KINH DOANH VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KINH DOANH VAT LIEU NO *</pattern>
+   <template>
+      <srai>KINH DOANH VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KINH DOANH VAT LIEU NO</pattern>
+   <template>
+      <srai>KINH DOANH VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KINH DOANH * VAT LIEU NO *</pattern>
+   <template>
+      <srai>KINH DOANH VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGHIEN CUU VAT LIEU NO</pattern>
+   <template>NGHIEN CUU VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>* NGHIEN CUU VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGHIEN CUU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGHIEN CUU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGHIEN CUU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGHIEN CUU VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGHIEN CUU VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGHIEN CUU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO</pattern>
+   <template>YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>* YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO *</pattern>
+   <template>
+      <srai>YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO *</pattern>
+   <template>
+      <srai>YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO</pattern>
+   <template>
+      <srai>YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* YEU CAU * HOAT DONG * VAN CHUYEN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>YEU CAU * HOAT DONG * VAN CHUYEN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* YEU CAU * HOAT DONG * VAN CHUYEN * VAT LIEU NO</pattern>
+   <template>
+      <srai>YEU CAU HOAT DONG VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU NO LA GI</pattern>
+   <template>KHAI NIEM VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>vat lieu no la gi</pattern>
+   <template>
+      <srai>VAT LIEU NO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>vat lieu no la gi ?</pattern>
+   <template>
+      <srai>VAT LIEU NO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>vat lieu no la gi?</pattern>
+   <template>
+      <srai>VAT LIEU NO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>vat lieu no ?</pattern>
+   <template>
+      <srai>VAT LIEU NO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>khai niem vat lieu no</pattern>
+   <template>
+      <srai>VAT LIEU NO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>vat lieu no</pattern>
+   <template>
+      <srai>VAT LIEU NO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</pattern>
+   <template>DUOC PHEP NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>AI DUOC * NGHIEN CUU * CHE TAO * SAN XUAT * BAO QUAN * SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+
+<category>
+   <pattern>AI * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>AI * NGHIEN CUU * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>AI * NGHIEN CUU * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>AI * BAO QUAN * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>AI * SAN XUAT * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>AI * SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* AI DUOC PHEP * NGHIEN CUU * CHE TAO * SAN XUAT * BAO QUAN * SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* AI * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* AI * NGHIEN CUU * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* AI * NGHIEN CUU * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* AI * BAO QUAN * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* AI * SAN XUAT * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* AI * SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUOC PHEP DUOC * NGHIEN CUU * CHE TAO * SAN XUAT * BAO QUAN * SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUOC PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUOC PHEP * NGHIEN CUU * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUOC PHEP * NGHIEN CUU * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUOC PHEP * BAO QUAN * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUOC PHEP * SAN XUAT * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DUOC PHEP * SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUOC PHEP * NGHIEN CUU * CHE TAO * SAN XUAT * BAO QUAN * SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUOC PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUOC PHEP * NGHIEN CUU * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUOC PHEP * NGHIEN CUU * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUOC PHEP * BAO QUAN * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUOC PHEP * SAN XUAT * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DUOC PHEP * SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGHIEN CUU CHE TAO SAN XUAT BAO QUAN SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</pattern>
+   <template>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>* QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * BAT BUOC * NGUOI VAN CHUYEN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * BAT BUOC * NGUOI VAN CHUYEN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * BAT BUOC * NGUOI VAN CHUYEN * VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI VAN CHUYEN VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI VAN CHUYEN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI VAN CHUYEN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI VAN CHUYEN * VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * NGUOI VAN CHUYEN * VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH NGUOI VAN CHUYEN VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH NGUOI VAN CHUYEN VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * NGUOI VAN CHUYEN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * VAN CHUYEN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * VAN CHUYEN * VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * VAN CHUYEN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH VAN CHUYEN VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * VAN CHUYEN * VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUY DINH * VAN CHUYEN VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUY DINH * VAN CHUYEN VAT LIEU NO</pattern>
+   <template>
+      <srai>QUY DINH BAT BUOC DOI VOI NGUOI VAN CHUYEN VAT LIEU NO</srai>
+   </template>
+</category>
+
+</aiml>
+

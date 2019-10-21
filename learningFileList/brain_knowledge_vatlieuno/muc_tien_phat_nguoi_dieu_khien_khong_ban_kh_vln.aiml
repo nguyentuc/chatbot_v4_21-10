@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</pattern>
+   <template>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO * CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO * CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO * CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO * CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI CUA KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI CUA KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI CUA KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI CUA KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * CUA KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * CUA KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * CUA KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * CUA KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO * CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO * CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO * CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO * CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI DIEU KHIEN TAU THUYEN KHONG CO BAN KHAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT CUA KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT CUA KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT CUA KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT CUA KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * CUA KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * CUA KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * CUA KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * CUA KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT VAT LIEU NO CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT VAT LIEU NO CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT VAT LIEU NO CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT VAT LIEU NO CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * VAT LIEU NO * CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * VAT LIEU NO * CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC TIEN PHAT * VAT LIEU NO * CUA KHAU</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC TIEN PHAT * VAT LIEU NO * CUA KHAU *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CUA KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CUA KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>MUC TIEN PHAT NGUOI DIEU KHIEN KHONG BAN KHAI</srai>
+   </template>
+</category>
+
+</aiml>

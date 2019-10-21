@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</pattern>
+   <template>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP GIAY PHEP  XUAT KHAU NHAP KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP GIAY PHEP  XUAT KHAU NHAP KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP GIAY PHEP  XUAT KHAU NHAP KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP GIAY PHEP  XUAT KHAU NHAP KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP * GIAY PHEP  * XUAT KHAU * NHAP KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP * GIAY PHEP  * XUAT KHAU * NHAP KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP * GIAY PHEP  * XUAT KHAU * NHAP KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP * GIAY PHEP  * XUAT KHAU * NHAP KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP GIAY PHEP  XUAT KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP GIAY PHEP  XUAT KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP GIAY PHEP  XUAT KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP GIAY PHEP  XUAT KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP * GIAY PHEP  * XUAT KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP * GIAY PHEP  * XUAT KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP * GIAY PHEP  * XUAT KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP * GIAY PHEP  * XUAT KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP GIAY PHEP  NHAP KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP GIAY PHEP  NHAP KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP GIAY PHEP  NHAP KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP GIAY PHEP  NHAP KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP * GIAY PHEP  * NHAP KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP * GIAY PHEP  * NHAP KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP * GIAY PHEP  * NHAP KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP * GIAY PHEP  * NHAP KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP XUAT KHAU NHAP KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP XUAT KHAU NHAP KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP XUAT KHAU NHAP KHAU VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP XUAT KHAU NHAP KHAU VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP * XUAT KHAU * NHAP KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP * XUAT KHAU * NHAP KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CAP * XUAT KHAU * NHAP KHAU * VAT LIEU NO</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CAP * XUAT KHAU * NHAP KHAU * VAT LIEU NO *</pattern>
+   <template>
+      <srai>THU TUC CAP GIAY PHEP XUAT KHAU NHAP KHAU VAT LIEU NO</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</pattern>
+   <template>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LI VA SU DUNG PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LI VA SU DUNG PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LI VA SU DUNG PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LI VA SU DUNG PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM * TRONG VIEC QUAN LI VA SU DUNG * PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM * TRONG VIEC QUAN LI VA SU DUNG * PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM * TRONG VIEC QUAN LI VA SU DUNG * PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM * TRONG VIEC QUAN LI VA SU DUNG * PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM * TRONG VIEC QUAN LI VA SU DUNG PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM * TRONG VIEC QUAN LI VA SU DUNG PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM * TRONG VIEC QUAN LI VA SU DUNG PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM * TRONG VIEC QUAN LI VA SU DUNG PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM * PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM * PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAC HANH VI BI NGHIEM CAM * PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAC HANH VI BI NGHIEM CAM * PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRONG VIEC QUAN LI VA SU DUNG PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRONG VIEC QUAN LI VA SU DUNG PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRONG VIEC QUAN LI VA SU DUNG PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRONG VIEC QUAN LI VA SU DUNG PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRONG VIEC QUAN LI VA SU DUNG * PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRONG VIEC QUAN LI VA SU DUNG * PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRONG VIEC QUAN LI VA SU DUNG * PHAO</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRONG VIEC QUAN LI VA SU DUNG * PHAO *</pattern>
+   <template>
+      <srai>CAC HANH VI BI NGHIEM CAM TRONG VIEC QUAN LY VA SU DUNG PHAO</srai>
+   </template>
+</category>
+
+</aiml>

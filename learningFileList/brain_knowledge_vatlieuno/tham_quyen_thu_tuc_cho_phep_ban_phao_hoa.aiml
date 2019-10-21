@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</pattern>
+   <template>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN THU TUC CHO PHEP BAN PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN THU TUC CHO PHEP BAN PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN THU TUC CHO PHEP BAN PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN THU TUC CHO PHEP BAN PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN * THU TUC * CHO PHEP BAN * PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN * THU TUC * CHO PHEP BAN * PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN * THU TUC * CHO PHEP BAN * PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN * THU TUC * CHO PHEP BAN * PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN CHO PHEP BAN PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN CHO PHEP BAN PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN CHO PHEP BAN PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN CHO PHEP BAN PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN * CHO PHEP BAN * PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN * CHO PHEP BAN * PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN * CHO PHEP BAN * PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN * CHO PHEP BAN * PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CHO PHEP BAN PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CHO PHEP BAN PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC CHO PHEP BAN PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC CHO PHEP BAN PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC * CHO PHEP BAN * PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * CHO PHEP BAN * PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * CHO PHEP BAN * PHAO</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC * CHO PHEP BAN * PHAO *</pattern>
+   <template>
+      <srai>THAM QUYEN THU TUC CHO PHEP BAN PHAO HOA</srai>
+   </template>
+</category>
+
+</aiml>

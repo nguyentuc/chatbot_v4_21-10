@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>GIU GIN LUU DAN</pattern>
+   <template>GIU GIN LUU DAN</template>
+</category>
+
+<category>
+   <pattern>GIU GIN LUU DAN</pattern>
+   <template>
+      <srai>GIU GIN LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIU GIN LUU DAN *</pattern>
+   <template>
+      <srai>GIU GIN LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIU GIN LUU DAN</pattern>
+   <template>
+      <srai>GIU GIN LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIU GIN LUU DAN *</pattern>
+   <template>
+      <srai>GIU GIN LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIU GIN * LUU DAN</pattern>
+   <template>
+      <srai>GIU GIN LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIU GIN * LUU DAN *</pattern>
+   <template>
+      <srai>GIU GIN LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIU GIN * LUU DAN</pattern>
+   <template>
+      <srai>GIU GIN LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIU GIN * LUU DAN *</pattern>
+   <template>
+      <srai>GIU GIN LUU DAN</srai>
+   </template>
+</category>
+
+</aiml>

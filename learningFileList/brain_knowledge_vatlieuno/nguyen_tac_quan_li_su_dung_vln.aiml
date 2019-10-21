@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</pattern>
+   <template>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI * SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI * SU DUNG * VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI * SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI * SU DUNG * VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI * SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI * SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI * SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI * SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUYEN TAC QUAN LI * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUYEN TAC QUAN LI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * VAT LIEU NO *</pattern>
+   <template>
+      <srai>NGUYEN TAC QUAN LI SU DUNG VAT LIEU NO</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>XU LI THE NAO KHI GAP BOM DAU DAN</pattern>
+   <template>XU LI THE NAO KHI GAP BOM DAU DAN</template>
+</category>
+
+<category>
+   <pattern>XU LI THE NAO KHI GAP BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI THE NAO KHI GAP BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI THE NAO KHI GAP BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI THE NAO KHI GAP BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI THE NAO * KHI GAP * BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI THE NAO * KHI GAP * BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI THE NAO * KHI GAP * BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI THE NAO * KHI GAP * BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI THE NAO * KHI GAP BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI THE NAO * KHI GAP BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI THE NAO * KHI GAP BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI THE NAO * KHI GAP BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI THE NAO KHI GAP * BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI THE NAO KHI GAP * BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI THE NAO KHI GAP * BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI THE NAO KHI GAP * BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHI GAP BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHI GAP BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHI GAP BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHI GAP BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHI GAP * BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHI GAP * BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHI GAP * BOM</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHI GAP * BOM *</pattern>
+   <template>
+      <srai>XU LI THE NAO KHI GAP BOM DAU DAN</srai>
+   </template>
+</category>
+
+</aiml>

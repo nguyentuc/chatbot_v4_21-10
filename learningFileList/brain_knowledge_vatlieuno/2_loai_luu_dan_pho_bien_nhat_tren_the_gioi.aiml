@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</pattern>
+   <template>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN * PHO BIEN NHAT * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN * PHO BIEN NHAT * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN * PHO BIEN NHAT * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN * PHO BIEN NHAT * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN * PHO BIEN NHAT TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN * PHO BIEN NHAT TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN * PHO BIEN NHAT TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN * PHO BIEN NHAT TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN PHO BIEN NHAT * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN PHO BIEN NHAT * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN PHO BIEN NHAT * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN PHO BIEN NHAT * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN * PHO BIEN NHAT * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN * PHO BIEN NHAT * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN * PHO BIEN NHAT * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN * PHO BIEN NHAT * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN * PHO BIEN NHAT TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN * PHO BIEN NHAT TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN * PHO BIEN NHAT TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN * PHO BIEN NHAT TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN * TREN THE GIOI</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN * TREN THE GIOI *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN PHO BIEN NHAT</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN PHO BIEN NHAT *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN PHO BIEN NHAT</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN PHO BIEN NHAT *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN * PHO BIEN NHAT</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN * PHO BIEN NHAT *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN * PHO BIEN NHAT</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN * PHO BIEN NHAT *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN PHO BIEN NHAT</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN PHO BIEN NHAT *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI * LUU DAN PHO BIEN NHAT</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI * LUU DAN PHO BIEN NHAT *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN * PHO BIEN NHAT</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN * PHO BIEN NHAT *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* 2 LOAI LUU DAN * PHO BIEN NHAT</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>2 LOAI LUU DAN * PHO BIEN NHAT *</pattern>
+   <template>
+      <srai>2 LOAI LUU DAN PHO BIEN NHAT TREN THE GIOI</srai>
+   </template>
+</category>
+
+</aiml>

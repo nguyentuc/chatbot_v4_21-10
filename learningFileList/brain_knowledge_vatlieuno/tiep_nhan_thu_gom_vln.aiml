@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+<category>
+   <pattern>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</pattern>
+   <template>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>* TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUONG HOP * TIEP NHAN * THU GOM VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUONG HOP * TIEP NHAN * THU GOM VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUONG HOP * TIEP NHAN * THU GOM VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN THU GOM VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN THU GOM VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN THU GOM VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN THU GOM VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN * THU GOM * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN * THU GOM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN * THU GOM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN * THU GOM * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU GOM VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU GOM VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU GOM VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU GOM VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU GOM * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU GOM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU GOM * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU GOM * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRUONG HOP TIEP NHAN THU GOM VAT LIEU NO</srai>
+   </template>
+</category>
+
+</aiml>

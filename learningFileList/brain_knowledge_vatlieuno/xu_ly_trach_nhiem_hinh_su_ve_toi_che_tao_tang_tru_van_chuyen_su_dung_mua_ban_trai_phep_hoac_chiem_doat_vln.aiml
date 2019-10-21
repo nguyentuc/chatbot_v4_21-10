@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</pattern>
+   <template>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>XU LI TOI CHE TAO TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI TOI CHE TAO TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI TOI CHE TAO TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI TOI CHE TAO TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * TOI CHE TAO * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * TOI CHE TAO * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * TOI CHE TAO * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * TOI CHE TAO * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * TOI CHE TAO * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * TOI CHE TAO * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * TOI CHE TAO * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * TOI CHE TAO * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI TANG TRU TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI TANG TRU TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI TANG TRU TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI TANG TRU TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * TANG TRU * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * TANG TRU * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * TANG TRU * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * TANG TRU * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * TANG TRU * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * TANG TRU * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * TANG TRU * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * TANG TRU * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI VAN CHUYEN TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI VAN CHUYEN TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI VAN CHUYEN TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI VAN CHUYEN TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * VAN CHUYEN * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * VAN CHUYEN * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * VAN CHUYEN * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * VAN CHUYEN * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * VAN CHUYEN * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * VAN CHUYEN * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * VAN CHUYEN * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * VAN CHUYEN * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI SU DUNG TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI SU DUNG TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI SU DUNG TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI SU DUNG TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * SU DUNG * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * SU DUNG * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * SU DUNG * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * SU DUNG * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * SU DUNG * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * SU DUNG * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * SU DUNG * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * SU DUNG * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI MUA BAN TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI MUA BAN TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI MUA BAN TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI MUA BAN TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * MUA BAN * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * MUA BAN * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * MUA BAN * TRAI PHEP * VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * MUA BAN * TRAI PHEP * VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * MUA BAN * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * MUA BAN * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LI * MUA BAN * TRAI PHEP VAT LIEU NO</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LI * MUA BAN * TRAI PHEP VAT LIEU NO *</pattern>
+   <template>
+      <srai>XU LY TRACH NHIEM HINH SU VE TOI CHE TAO TANG TRU VAN CHUYEN SU DUNG MUA BAN TRAI PHEP HOAC CHIEM DOAT VAT LIEU NO</srai>
+   </template>
+</category>
+
+</aiml>

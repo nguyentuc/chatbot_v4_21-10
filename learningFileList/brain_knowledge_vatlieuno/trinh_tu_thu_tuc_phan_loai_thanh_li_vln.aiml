@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+<category>
+   <pattern>TRINH TU THU TUC THANH LI PHAN LOAI VLN</pattern>
+   <template>TRINH TU THU TUC THANH LI PHAN LOAI VLN</template>
+</category>
+
+<category>
+   <pattern>TRINH TU THU TUC THANH LI PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU THU TUC THANH LI PHAN LOAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU THU TUC THANH LI PHAN LOAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU THU TUC THANH LI PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU * THU TUC * THANH LI * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU * THU TUC * THANH LI * PHAN LOAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU * THU TUC * THANH LI * PHAN LOAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU * THU TUC * THANH LI * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU THANH LI PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU THANH LI PHAN LOAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU THANH LI PHAN LOAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU THANH LI PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU * THANH LI * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU * THANH LI * PHAN LOAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU * THANH LI * PHAN LOAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU * THANH LI * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU THANH LI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU THANH LI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU THANH LI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU THANH LI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU * THANH LI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU * THANH LI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU * THANH LI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU * THANH LI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU PHAN LOAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRINH TU * PHAN LOAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRINH TU * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC THANH LI PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC THANH LI PHAN LOAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC THANH LI PHAN LOAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC THANH LI PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC * THANH LI * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * THANH LI * PHAN LOAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC * THANH LI * PHAN LOAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * THANH LI * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC PHAN LOAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC PHAN LOAI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC PHAN LOAI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * PHAN LOAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC * PHAN LOAI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * PHAN LOAI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC THANH LI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC THANH LI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC THANH LI VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC THANH LI VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC * THANH LI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * THANH LI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THU TUC * THANH LI * VAT LIEU NO</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THU TUC * THANH LI * VAT LIEU NO *</pattern>
+   <template>
+      <srai>TRINH TU THU TUC THANH LI PHAN LOAI VLN</srai>
+   </template>
+</category>
+
+
+
+</aiml>

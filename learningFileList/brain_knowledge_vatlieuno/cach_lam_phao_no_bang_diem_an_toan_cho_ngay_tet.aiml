@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</pattern>
+   <template>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO BANG DIEM AN TOAN CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO BANG DIEM AN TOAN CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO BANG DIEM AN TOAN CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO BANG DIEM AN TOAN CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO * BANG DIEM * AN TOAN * CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO * BANG DIEM * AN TOAN * CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO * BANG DIEM * AN TOAN * CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO * BANG DIEM * AN TOAN * CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO * BANG DIEM AN TOAN CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO * BANG DIEM AN TOAN CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO * BANG DIEM AN TOAN * CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO * BANG DIEM AN TOAN * CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO BANG DIEM CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO BANG DIEM CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO BANG DIEM CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO BANG DIEM CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO * BANG DIEM * CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO * BANG DIEM * CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO * BANG DIEM * CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO * BANG DIEM * CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO AN TOAN CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO AN TOAN CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO AN TOAN CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO AN TOAN CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO * AN TOAN * CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO * AN TOAN * CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CACH LAM PHAO * AN TOAN * CHO NGAY TET</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CACH LAM PHAO * AN TOAN * CHO NGAY TET *</pattern>
+   <template>
+      <srai>CACH LAM PHAO NO BANG DIEM AN TOAN CHO NGAY TET</srai>
+   </template>
+</category>
+
+</aiml>

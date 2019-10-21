@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</pattern>
+   <template>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</template>
+</category>
+
+<category>
+   <pattern>PHAO HOA NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO HOA NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO HOA NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA * NGUOI TRUNG QUOC * PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA * NGUOI TRUNG QUOC * PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * HOA * NGUOI TRUNG QUOC * PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * HOA * NGUOI TRUNG QUOC * PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * NGUOI TRUNG QUOC * PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * NGUOI TRUNG QUOC * PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * NGUOI TRUNG QUOC * PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOA NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOA NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOA NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOA NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOA * NGUOI TRUNG QUOC * PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOA * NGUOI TRUNG QUOC * PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOA * NGUOI TRUNG QUOC * PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOA * NGUOI TRUNG QUOC * PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOA * NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOA * NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HOA * NGUOI TRUNG QUOC PHAT MINH RA</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HOA * NGUOI TRUNG QUOC PHAT MINH RA *</pattern>
+   <template>
+      <srai>PHAO HOA DO NGUOI TRUNG QUOC PHAT MINH RA DUNG KHONG</srai>
+   </template>
+</category>
+
+</aiml>

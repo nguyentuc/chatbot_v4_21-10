@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</pattern>
+   <template>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM CUA BO QUOC PHONG PHAO </pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM CUA BO QUOC PHONG PHAO  *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM CUA BO QUOC PHONG PHAO </pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM CUA BO QUOC PHONG PHAO  *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM CUA BO QUOC PHONG * PHAO * </pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM CUA BO QUOC PHONG * PHAO *  *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM CUA BO QUOC PHONG * PHAO * </pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM CUA BO QUOC PHONG * PHAO *  *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM CUA BO QUOC PHONG * PHAO </pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM CUA BO QUOC PHONG * PHAO  *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM CUA BO QUOC PHONG * PHAO </pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM CUA BO QUOC PHONG * PHAO  *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM CUA BO QUOC PHONG PHAO * </pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM CUA BO QUOC PHONG PHAO *  *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM CUA BO QUOC PHONG PHAO * </pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM CUA BO QUOC PHONG PHAO *  *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO QUOC PHONG TRONG QUAN LY PHAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+</aiml>

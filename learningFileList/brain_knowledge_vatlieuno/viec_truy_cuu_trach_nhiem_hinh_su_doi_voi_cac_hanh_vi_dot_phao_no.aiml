@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</pattern>
+   <template>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</template>
+</category>
+
+<category>
+   <pattern>VIEC TRUY CUU TRACH NHIEM HINH SU HANH VI DOT PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VIEC TRUY CUU TRACH NHIEM HINH SU HANH VI DOT PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VIEC TRUY CUU TRACH NHIEM HINH SU HANH VI DOT PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VIEC TRUY CUU TRACH NHIEM HINH SU HANH VI DOT PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VIEC TRUY CUU TRACH NHIEM HINH SU * HANH VI DOT * PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VIEC TRUY CUU TRACH NHIEM HINH SU * HANH VI DOT * PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VIEC TRUY CUU TRACH NHIEM HINH SU * HANH VI DOT * PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VIEC TRUY CUU TRACH NHIEM HINH SU * HANH VI DOT * PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VIEC TRUY CUU TRACH NHIEM HINH SU * HANH VI DOT PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VIEC TRUY CUU TRACH NHIEM HINH SU * HANH VI DOT PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VIEC TRUY CUU TRACH NHIEM HINH SU * HANH VI DOT PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VIEC TRUY CUU TRACH NHIEM HINH SU * HANH VI DOT PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VIEC TRUY CUU TRACH NHIEM HINH SU HANH VI DOT * PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VIEC TRUY CUU TRACH NHIEM HINH SU HANH VI DOT * PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VIEC TRUY CUU TRACH NHIEM HINH SU HANH VI DOT * PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VIEC TRUY CUU TRACH NHIEM HINH SU HANH VI DOT * PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI DOT PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI DOT PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI DOT PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI DOT PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI DOT * PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI DOT * PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI DOT * PHAO</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI DOT * PHAO *</pattern>
+   <template>
+      <srai>VIEC TRUY CUU TRACH NHIEM HINH SU DOI VOI CAC HANH VI DOT PHAO</srai>
+   </template>
+</category>
+
+</aiml>

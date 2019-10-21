@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</pattern>
+   <template>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP VAT LIEU THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP VAT LIEU THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP VAT LIEU THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP VAT LIEU THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP * VAT LIEU * THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP * VAT LIEU * THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP * VAT LIEU * THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP * VAT LIEU * THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP * VAT LIEU THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP * VAT LIEU THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP * VAT LIEU THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP * VAT LIEU THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP * THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP * THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI SU DUNG TRAI PHEP * THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI SU DUNG TRAI PHEP * THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU * THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU * THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU * THEO BO LUAT 2015</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU * THEO BO LUAT 2015 *</pattern>
+   <template>
+      <srai>TOI SU DUNG TRAI PHEP VAT LIEU NO THEO BO LUAT HINH SU 2015</srai>
+   </template>
+</category>
+
+</aiml>

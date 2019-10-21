@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</pattern>
+   <template>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</template>
+</category>
+
+<category>
+   <pattern>TINH NANG TAC DUNG CHIEN DAU LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG TAC DUNG CHIEN DAU LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG TAC DUNG CHIEN DAU LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TINH NANG TAC DUNG CHIEN DAU LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TINH NANG * TAC DUNG CHIEN DAU * LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG * TAC DUNG CHIEN DAU * LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG * TAC DUNG CHIEN DAU * LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TINH NANG * TAC DUNG CHIEN DAU * LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TINH NANG * TAC DUNG CHIEN DAU LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG * TAC DUNG CHIEN DAU LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG * TAC DUNG CHIEN DAU LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TINH NANG * TAC DUNG CHIEN DAU LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TINH NANG LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TINH NANG LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TINH NANG * LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG * LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TINH NANG * LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TINH NANG * LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAC DUNG CHIEN DAU LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAC DUNG CHIEN DAU LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAC DUNG CHIEN DAU LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAC DUNG CHIEN DAU LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAC DUNG CHIEN DAU * LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAC DUNG CHIEN DAU * LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAC DUNG CHIEN DAU * LUU DAN</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAC DUNG CHIEN DAU * LUU DAN *</pattern>
+   <template>
+      <srai>TINH NANG TAC DUNG CHIEN DAU CUA LUU DAN</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</pattern>
+   <template>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO * GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO * GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO * GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO * GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO * GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO * GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO * GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO * GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO * GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO * GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO * GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO * GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO * GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO * GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO * GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO * GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * GAY THIET HAI XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * GAY THIET HAI XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO GAY THIET HAI * XU LY THE NAO</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO GAY THIET HAI * XU LY THE NAO *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO GAY THIET HAI</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO GAY THIET HAI *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO GAY THIET HAI</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO GAY THIET HAI *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO * GAY THIET HAI</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO * GAY THIET HAI *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO * GAY THIET HAI</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO * GAY THIET HAI *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO GAY THIET HAI</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO GAY THIET HAI *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO * PHAO GAY THIET HAI</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO * PHAO GAY THIET HAI *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO * GAY THIET HAI</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO * GAY THIET HAI *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO PHAO * GAY THIET HAI</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO PHAO * GAY THIET HAI *</pattern>
+   <template>
+      <srai>NGUOI NAO DOT PHAO NO GAY THIET HAI NGHIEM TRONG DEN TINH MANG NGUOI KHAC THI XU LY THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

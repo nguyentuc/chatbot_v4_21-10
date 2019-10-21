@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</pattern>
+   <template>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</template>
+</category>
+
+<category>
+   <pattern>MUC PHAT CA NHAN DOANH NGHIEP MUA BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT CA NHAN DOANH NGHIEP MUA BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT CA NHAN DOANH NGHIEP MUA BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT CA NHAN DOANH NGHIEP MUA BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT * CA NHAN DOANH NGHIEP MUA BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT * CA NHAN DOANH NGHIEP MUA BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT * CA NHAN DOANH NGHIEP MUA BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT * CA NHAN DOANH NGHIEP MUA BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT * CA NHAN DOANH NGHIEP MUA BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT * CA NHAN DOANH NGHIEP MUA BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT * CA NHAN DOANH NGHIEP MUA BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT * CA NHAN DOANH NGHIEP MUA BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT CA NHAN DOANH NGHIEP MUA BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT CA NHAN DOANH NGHIEP MUA BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT CA NHAN DOANH NGHIEP MUA BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT CA NHAN DOANH NGHIEP MUA BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT DOI VOI CA NHAN DOANH NGHIEP MUA BAN PHAO TRAI PHEP</srai>
+   </template>
+</category>
+
+</aiml>

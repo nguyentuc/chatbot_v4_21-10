@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</pattern>
+   <template>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</template>
+</category>
+
+<category>
+   <pattern>CAM CO THE CHAP VU KHI VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO THE CHAP VU KHI VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO THE CHAP VU KHI VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAM CO THE CHAP VU KHI VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAM CO * THE CHAP VU KHI * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO * THE CHAP VU KHI * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO * THE CHAP VU KHI * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAM CO * THE CHAP VU KHI * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAM CO VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAM CO VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAM CO * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAM CO * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAM CO * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CAM CO * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CAM CO * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THE CHAP VU KHI VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THE CHAP VU KHI VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THE CHAP VU KHI VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THE CHAP VU KHI VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THE CHAP VU KHI * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THE CHAP VU KHI * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THE CHAP VU KHI * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THE CHAP VU KHI * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THE CHAP VU KHI * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THE CHAP VU KHI * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THE CHAP VU KHI * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THE CHAP VU KHI * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CAM CO THE CHAP VU KHI VAT LIEU NO THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>MUC PHAT HANH VI BUON BAN PHAO</pattern>
+   <template>MUC PHAT HANH VI BUON BAN PHAO</template>
+</category>
+
+<category>
+   <pattern>MUC PHAT HANH VI BUON BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT HANH VI BUON BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT HANH VI BUON BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT HANH VI BUON BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT * HANH VI BUON BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT * HANH VI BUON BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT * HANH VI BUON BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT * HANH VI BUON BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT * HANH VI BUON BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT * HANH VI BUON BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT * HANH VI BUON BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT * HANH VI BUON BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT HANH VI BUON BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT HANH VI BUON BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUC PHAT HANH VI BUON BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUC PHAT HANH VI BUON BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI BUON BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI BUON BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI BUON BAN PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI BUON BAN PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI BUON BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI BUON BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI BUON BAN * PHAO</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI BUON BAN * PHAO *</pattern>
+   <template>
+      <srai>MUC PHAT HANH VI BUON BAN PHAO</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</pattern>
+   <template>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO TU 2 KG DEN DUOI 30 KG 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO TU 2 KG DEN DUOI 30 KG 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO TU 2 KG DEN DUOI 30 KG 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO TU 2 KG DEN DUOI 30 KG 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO * TU 2 KG DEN DUOI 30 KG 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO TU 2 KG DEN DUOI 30 KG * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO TU 2 KG DEN DUOI 30 KG * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO TU 2 KG DEN DUOI 30 KG * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * PHAO TU 2 KG DEN DUOI 30 KG * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO * TU 2 KG DEN DUOI 30 KG * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO * TU 2 KG DEN DUOI 30 KG * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO * TU 2 KG DEN DUOI 30 KG * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO * TU 2 KG DEN DUOI 30 KG * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO * TU 2 KG DEN DUOI 30 KG 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO * TU 2 KG DEN DUOI 30 KG 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO * TU 2 KG DEN DUOI 30 KG 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO * TU 2 KG DEN DUOI 30 KG 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT * TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGUOI NAO SAN XUAT HOAC CHIEM DOAT TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * TU 2 KG DEN DUOI 30 KG BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO * 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO TU 2 KG DEN DUOI 30 KG * BI XU LI THE NAO 34
+ *</pattern>
+   <template>
+      <srai>NGUOI NAO SAN XUAT HOAC CHIEM DOAT PHAO NO CO O LUONG TU 2 KG DEN DUOI 30 KG CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+</aiml>

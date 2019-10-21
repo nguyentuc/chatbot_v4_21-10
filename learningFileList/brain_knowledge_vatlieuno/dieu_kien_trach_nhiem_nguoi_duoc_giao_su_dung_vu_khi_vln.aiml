@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</pattern>
+   <template>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * TRACH NHIEM * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * TRACH NHIEM * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * TRACH NHIEM * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * TRACH NHIEM * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM * NGUOI DUOC GIAO SU DUNG * VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM * NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM * NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRACH NHIEM * NGUOI DUOC GIAO SU DUNG VAT LIEU NO</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRACH NHIEM * NGUOI DUOC GIAO SU DUNG VAT LIEU NO *</pattern>
+   <template>
+      <srai>DIEU KIEN TRACH NHIEM NGUOI DUOC GIAO SU DUNG VU KHI VAT LIEU NO</srai>
+   </template>
+</category>
+
+</aiml>

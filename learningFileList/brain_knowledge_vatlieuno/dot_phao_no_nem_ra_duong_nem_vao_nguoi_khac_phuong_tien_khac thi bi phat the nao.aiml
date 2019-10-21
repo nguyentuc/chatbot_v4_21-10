@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</pattern>
+   <template>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</template>
+</category>
+
+<category>
+   <pattern>DOT NEM PHAO PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT NEM PHAO PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT NEM PHAO PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT NEM PHAO PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT * NEM * PHAO * PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT * NEM * PHAO * PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT * NEM * PHAO * PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT * NEM * PHAO * PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT PHAO PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT PHAO PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT PHAO PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT PHAO PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT * PHAO * PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT * PHAO * PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DOT * PHAO * PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DOT * PHAO * PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NEM PHAO PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NEM PHAO PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NEM PHAO PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NEM PHAO PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NEM * PHAO * PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NEM * PHAO * PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NEM * PHAO * PHAT THE NAO</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NEM * PHAO * PHAT THE NAO *</pattern>
+   <template>
+      <srai>DOT PHAO NO NEM RA DUONG NEM VAO NGUOI KHAC PHUONG TIEN KHAC THI BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

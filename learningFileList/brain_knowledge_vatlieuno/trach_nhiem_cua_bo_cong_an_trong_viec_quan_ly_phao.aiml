@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>TRACH NHIEM CUA BO CONG AN</pattern>
+   <template>TRACH NHIEM CUA BO CONG AN</template>
+</category>
+
+<category>
+   <pattern>QUAN LY PHAO 18
+</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUAN LY PHAO 18
+ *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUAN LY PHAO 18
+</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUAN LY PHAO 18
+ *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUAN LY * PHAO * 18
+</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUAN LY * PHAO * 18
+ *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUAN LY * PHAO * 18
+</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUAN LY * PHAO * 18
+ *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUAN LY * PHAO 18
+</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUAN LY * PHAO 18
+ *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUAN LY * PHAO 18
+</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUAN LY * PHAO 18
+ *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUAN LY PHAO * 18
+</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUAN LY PHAO * 18
+ *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUAN LY PHAO * 18
+</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUAN LY PHAO * 18
+ *</pattern>
+   <template>
+      <srai>TRACH NHIEM CUA BO CONG AN</srai>
+   </template>
+</category>
+
+</aiml>

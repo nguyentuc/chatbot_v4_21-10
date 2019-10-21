@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</pattern>
+   <template>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP QUA BIEN GIOI PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP QUA BIEN GIOI PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * QUA BIEN GIOI * PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * QUA BIEN GIOI * PHAO * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * QUA BIEN GIOI * PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * QUA BIEN GIOI * PHAO * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * PHAO * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TRAI PHEP * PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TRAI PHEP * PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUA BIEN GIOI PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUA BIEN GIOI PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUA BIEN GIOI PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUA BIEN GIOI PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUA BIEN GIOI * PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUA BIEN GIOI * PHAO * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUA BIEN GIOI * PHAO * TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUA BIEN GIOI * PHAO * TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUA BIEN GIOI * PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUA BIEN GIOI * PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* QUA BIEN GIOI * PHAO TOI GI</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>QUA BIEN GIOI * PHAO TOI GI *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN TRAI PHEP QUA BIEN GIOI PHAO THI BI PHAT VE TOI GI</srai>
+   </template>
+</category>
+
+</aiml>

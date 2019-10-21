@@ -1,0 +1,23 @@
+<aiml version="1.0">
+    <category>
+        <pattern>LEARN AIML</pattern>
+        <template>
+            <!-- Load standard AIML set -->
+            <learn>learningFileList/brain_knowledge_cmt/z_conversation.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/age.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/chi_phi.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/lam_cmnd.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/chuyen_the.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/mat_cmnd.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/chuyen_phat_nhanh.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/khac_nhau.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/thongtin.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/hieu_luc.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/cap_lai.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/thoi_gian_lam.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/anh.aiml</learn>
+            <learn>learningFileList/brain_knowledge_cmt/trinh_tu.aiml</learn>
+        </template>
+    </category>
+</aiml>
+<!-- id = 0 tuong ung aiml file cho chung minh thu -->

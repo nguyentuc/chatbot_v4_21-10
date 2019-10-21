@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</template>
+</category>
+
+<category>
+   <pattern>SU DUNG VAT LIEU NO CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG VAT LIEU NO CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG VAT LIEU NO CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG VAT LIEU NO CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * VAT LIEU NO * CHUA GAY HAU QUA GI * CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * VAT LIEU NO * CHUA GAY HAU QUA GI * CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * VAT LIEU NO * CHUA GAY HAU QUA GI * CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * VAT LIEU NO * CHUA GAY HAU QUA GI * CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * CHUA GAY HAU QUA GI * CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * CHUA GAY HAU QUA GI * CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * CHUA GAY HAU QUA GI * CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU NO CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU NO CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU NO CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU NO CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU NO * CHUA GAY HAU QUA GI * CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU NO * CHUA GAY HAU QUA GI * CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU NO * CHUA GAY HAU QUA GI * CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU NO * CHUA GAY HAU QUA GI * CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU NO * CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU NO * CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAT LIEU NO * CHUA GAY HAU QUA GI CO BI SAO KHONG</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAT LIEU NO * CHUA GAY HAU QUA GI CO BI SAO KHONG *</pattern>
+   <template>
+      <srai>SU DUNG CAC  LOAI VU KHI VAT LIEU NO TRAI QUY DINH NHUNG CHUA GAY HAU QUA GI CO BI SAO KHONG</srai>
+   </template>
+</category>
+
+</aiml>

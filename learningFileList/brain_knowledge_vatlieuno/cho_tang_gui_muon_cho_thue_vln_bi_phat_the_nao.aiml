@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</template>
+</category>
+
+<category>
+   <pattern>CHO TANG GUI MUON THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO TANG GUI MUON THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO TANG GUI MUON THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO TANG GUI MUON THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * TANG * GUI * MUON * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * TANG * GUI * MUON * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * TANG * GUI * MUON * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * TANG * GUI * MUON * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * TANG * GUI * MUON * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * TANG * GUI * MUON * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * TANG * GUI * MUON * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * TANG * GUI * MUON * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * TANG * GUI * MUON * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * TANG * GUI * MUON * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * TANG * GUI * MUON * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * TANG * GUI * MUON * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * TANG * GUI * MUON * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * TANG * GUI * MUON * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * TANG * GUI * MUON * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * TANG * GUI * MUON * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GUI * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GUI * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON * THUE * VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON * THUE * VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON * THUE VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON * THUE VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON * THUE VAT LIEU NO * BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON * THUE VAT LIEU NO * BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUON * THUE * VAT LIEU NO BI PHAT THE NAO</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUON * THUE * VAT LIEU NO BI PHAT THE NAO *</pattern>
+   <template>
+      <srai>CHO TANG GUI MUON CHO THUE VAT LIEU NO BI PHAT THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

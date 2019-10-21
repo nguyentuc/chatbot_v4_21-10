@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>PHAI LAM GI KHI PHAT HIEN BOM MIN</pattern>
+   <template>PHAI LAM GI KHI PHAT HIEN BOM MIN</template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI KHI PHAT HIEN BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI KHI PHAT HIEN BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI KHI PHAT HIEN BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI KHI PHAT HIEN BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI * KHI PHAT HIEN * BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI * KHI PHAT HIEN * BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI * KHI PHAT HIEN * BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI * KHI PHAT HIEN * BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI * KHI PHAT HIEN BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI * KHI PHAT HIEN BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI * KHI PHAT HIEN BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI * KHI PHAT HIEN BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI * BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI * BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAI LAM GI * BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAI LAM GI * BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHI PHAT HIEN BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHI PHAT HIEN BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHI PHAT HIEN BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHI PHAT HIEN BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHI PHAT HIEN * BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHI PHAT HIEN * BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHI PHAT HIEN * BOM</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHI PHAT HIEN * BOM *</pattern>
+   <template>
+      <srai>PHAI LAM GI KHI PHAT HIEN BOM MIN</srai>
+   </template>
+</category>
+
+</aiml>

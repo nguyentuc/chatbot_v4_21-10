@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</pattern>
+   <template>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</template>
+</category>
+
+<category>
+   <pattern>MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * VAN CHUYEN * TANG TRU * TRAI PHEP * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VAN CHUYEN * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VAN CHUYEN * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO 150 KG TRO LEN * LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO 150 KG TRO LEN * LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRAI PHEP * PHAO * 150 KG TRO LEN LON</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRAI PHEP * PHAO * 150 KG TRO LEN LON *</pattern>
+   <template>
+      <srai>NGUOI NAO MUA BAN VAN CHUYEN TANG TRU TRAI PHEP PHAO NO CO SO LUONG TU 150 KG TRO LEN CO COI LA LON KHONG</srai>
+   </template>
+</category>
+
+</aiml>

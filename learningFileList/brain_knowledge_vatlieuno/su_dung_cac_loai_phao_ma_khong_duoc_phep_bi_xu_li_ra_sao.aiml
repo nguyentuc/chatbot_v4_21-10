@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</pattern>
+   <template> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</template>
+</category>
+
+<category>
+   <pattern>SU DUNG PHAO KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG PHAO KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG PHAO KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG PHAO KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * PHAO * KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * PHAO * KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * PHAO * KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * PHAO * KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * PHAO * KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * PHAO * KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * PHAO * KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * PHAO * KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * PHAO KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * PHAO KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG * PHAO KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG * PHAO KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG PHAO * KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG PHAO * KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG PHAO * KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG PHAO * KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG PHAO * KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG PHAO * KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG PHAO * KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG PHAO * KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO * KHONG DUOC PHEP BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO * KHONG DUOC PHEP BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAO KHONG DUOC PHEP * BI XU LI SAO</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAO KHONG DUOC PHEP * BI XU LI SAO *</pattern>
+   <template>
+      <srai> SU DUNG CAC LOAI PHAO MA KHONG DUOC PHEP BI XU LI RA SAO</srai>
+   </template>
+</category>
+
+</aiml>

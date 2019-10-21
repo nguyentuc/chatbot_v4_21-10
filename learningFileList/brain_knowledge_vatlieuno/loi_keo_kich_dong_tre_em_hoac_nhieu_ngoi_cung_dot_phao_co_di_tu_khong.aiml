@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</pattern>
+   <template>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</template>
+</category>
+
+<category>
+   <pattern>LOI KEO KICH DONG TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO KICH DONG TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO KICH DONG TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO KICH DONG TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO * KICH DONG * TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO * KICH DONG * TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO * KICH DONG * TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO * KICH DONG * TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO * KICH DONG * TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO * KICH DONG * TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO * KICH DONG * TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO * KICH DONG * TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO * KICH DONG TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO * KICH DONG TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO * KICH DONG TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO * KICH DONG TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO KICH DONG * TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO KICH DONG * TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO KICH DONG * TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO KICH DONG * TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO KICH DONG * TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO KICH DONG * TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LOI KEO KICH DONG * TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LOI KEO KICH DONG * TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * TRE EM NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * TRE EM NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG TRE EM * NHIEU NGUOI</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG TRE EM * NHIEU NGUOI *</pattern>
+   <template>
+      <srai>LOI KEO KICH DONG TRE EM HOAC NHIEU NGUOI CUNG DOT PHAO CO PHAI DI TU KHONG</srai>
+   </template>
+</category>
+
+</aiml>

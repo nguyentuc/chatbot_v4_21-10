@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</pattern>
+   <template>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</template>
+</category>
+
+<category>
+   <pattern>MUA BAN TANG TRU PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TANG TRU PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TANG TRU PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TANG TRU PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TANG TRU * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TANG TRU * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TANG TRU * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TANG TRU * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TANG TRU PHAO TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TANG TRU PHAO TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TANG TRU PHAO TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TANG TRU PHAO TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TANG TRU * PHAO * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TANG TRU * PHAO * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TANG TRU * PHAO * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TANG TRU * PHAO * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TANG TRU * PHAO TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TANG TRU * PHAO TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TANG TRU * PHAO TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TANG TRU * PHAO TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TANG TRU PHAO * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TANG TRU PHAO * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * TANG TRU PHAO * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * TANG TRU PHAO * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TANG TRU * PHAO * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TANG TRU * PHAO * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TANG TRU * PHAO * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TANG TRU * PHAO * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TANG TRU * PHAO TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TANG TRU * PHAO TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN TANG TRU * PHAO TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN TANG TRU * PHAO TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN * PHAO MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN * PHAO MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MUA BAN PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MUA BAN PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU PHAO MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * PHAO MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * PHAO MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU PHAO * MUC DICH TRONG NUOC * TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU PHAO * MUC DICH TRONG NUOC TRUY CUU HINH SU *</pattern>
+   <template>
+      <srai>NGUOI NAO CO HANH VI MUA BAN TANG TRU VAN CHUYEN TRAI PHEP PHAO VOI MUC DICH BUON BAN TRONG NUOC THI BI TRUY CUU HINH SU KHONG</srai>
+   </template>
+</category>
+
+</aiml>

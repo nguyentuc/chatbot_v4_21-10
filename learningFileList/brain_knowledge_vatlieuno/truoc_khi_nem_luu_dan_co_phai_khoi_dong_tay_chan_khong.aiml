@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</pattern>
+   <template>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM LUU DAN KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM LUU DAN KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM LUU DAN KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM LUU DAN KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM * LUU DAN * KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM * LUU DAN * KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM * LUU DAN * KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM * LUU DAN * KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM * LUU DAN KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM * LUU DAN KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM * LUU DAN KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM * LUU DAN KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM LUU DAN * KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM LUU DAN * KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM LUU DAN * KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM LUU DAN * KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LUU DAN KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LUU DAN KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LUU DAN KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LUU DAN KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LUU DAN * KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LUU DAN * KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LUU DAN * KHOI DONG TAY CHAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LUU DAN * KHOI DONG TAY CHAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM LUU DAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM LUU DAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM LUU DAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM LUU DAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM * LUU DAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM * LUU DAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRUOC KHI NEM * LUU DAN</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRUOC KHI NEM * LUU DAN *</pattern>
+   <template>
+      <srai>TRUOC KHI NEM LUU DAN CO PHAI KHOI DONG TAY CHAN KHONG</srai>
+   </template>
+</category>
+
+</aiml>

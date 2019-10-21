@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- vat lieu no -->
+
+
+<category>
+   <pattern>PHAT HIEN BOM TU THOI CHIEN</pattern>
+   <template>PHAT HIEN BOM TU THOI CHIEN</template>
+</category>
+
+<category>
+   <pattern>LAM GI PHAT HIEN MOT QUA BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GI PHAT HIEN MOT QUA BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GI PHAT HIEN MOT QUA BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GI PHAT HIEN MOT QUA BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GI * PHAT HIEN MOT QUA * BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GI * PHAT HIEN MOT QUA * BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GI * PHAT HIEN MOT QUA * BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GI * PHAT HIEN MOT QUA * BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GI * PHAT HIEN MOT QUA BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GI * PHAT HIEN MOT QUA BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GI * PHAT HIEN MOT QUA BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GI * PHAT HIEN MOT QUA BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GI PHAT HIEN MOT QUA * BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GI PHAT HIEN MOT QUA * BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GI PHAT HIEN MOT QUA * BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GI PHAT HIEN MOT QUA * BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN MOT QUA BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN MOT QUA BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN MOT QUA BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN MOT QUA BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN MOT QUA * BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN MOT QUA * BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN MOT QUA * BOM</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN MOT QUA * BOM *</pattern>
+   <template>
+      <srai>PHAT HIEN BOM TU THOI CHIEN</srai>
+   </template>
+</category>
+
+</aiml>
